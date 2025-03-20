@@ -1,4 +1,4 @@
-OverTheWire Bandit Write-Ups
+OverTheWire Bandit Write-Ups!
 Welcome to the OverTheWire Bandit Write-Ups repository! This collection provides detailed, step-by-step solutions for all levels of the OverTheWire Bandit wargame. Whether you're a beginner or looking to sharpen your Linux and security skills, these write-ups are designed to help you learn and solve each challenge effectively.
 
 What is OverTheWire Bandit?
